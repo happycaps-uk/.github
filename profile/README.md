@@ -16,7 +16,7 @@ Here on GitHub, you'll find:
 - 📦 Grow kit documentation & educational materials
 - 💡 Lesson plans for schools and home educators
 - 🔬 Mycology lab guides and small-scale cultivation methods
-- 📈 Code for environmental monitors (like our *PiAquaPulse* river health sensor)
+- 📈 Code for our *McyoGrow* fruiting room monitor & automation project
 
 > Our goal is to empower others to explore the magic of mushrooms — whether you're a budding biologist, hobby grower, or curious cook.
 
