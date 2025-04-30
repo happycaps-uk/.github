@@ -1,6 +1,6 @@
 # 🍄 HappyCaps Mushroom Farm
 
-Welcome to the official GitHub profile of **HappyCaps Mushroom Farm** — where fungi meets fun(gi)! We're a small-scale, Cotswolds-based farm growing **gourmet oyster and lion’s mane mushrooms**, with a passion for sustainability, education, and the joy of cultivation.
+Welcome to the official GitHub profile of **HappyCaps Mushroom Farm** — where fungi meets technology! We're a small-scale, Urban farm growing **gourmet mushrooms**, such as **Lion's Mane**, **Velvet Pioppino**, and varieties of **Oyster Mushroom** with a passion for sustainability, education, and the joy of cultivation.
 
 ## 🌿 What We’re About
 
@@ -26,13 +26,14 @@ Here on GitHub, you'll find:
 - [`mycogrow`](https://github.com/happycaps-uk/mycogrow): An environmental monitor and automation system for fruiting rooms
 - [`cultivation-guides`](https://github.com/happycaps-uk/cultivation-guides): Markdown-based grow guides for various gourmet mushrooms
 - [`recipeshroomDB`](https://github.com/happycaps-uk/recipeshroomDB): Recipe Database for various gourmet mushrooms
+- [`grow-kit-documentation`](https://github.com/happycaps-uk/grow-kit-docs): Documentation for care and mantenance of our grow kits
 
 ## 🧑‍🏫 Get Involved
 
 We're always open to ideas, contributions, and collaborations. Whether you're:
 - A teacher or educator with feedback
 - A fellow grower wanting to swap techniques
-- A coder interested in sensors, automations, or open hardware
+- A coder or IoT maker interested in sensors, automations, or open hardware
 
 ...we’d love to hear from you!
 
